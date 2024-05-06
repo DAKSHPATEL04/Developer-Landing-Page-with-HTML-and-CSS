@@ -1,4 +1,4 @@
-![Screenshot_6-5-2024_175318_127 0 0 1](https://github.com/DAKSHPATEL04/Developer-Landing-Page-with-HTML-and-CSS/assets/160720470/84d31e7c-61e4-4688-9cbc-7c7c33a7d6d8)# Developer Landing Page with HTML and CSS
+# Developer Landing Page with HTML and CSS
 
 ![Screenshot_6-5-2024_175318_127 0 0 1](https://github.com/DAKSHPATEL04/Developer-Landing-Page-with-HTML-and-CSS/assets/160720470/f24892a2-a8bd-4579-8440-157959fba0bc)
 
